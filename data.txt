@@ -802,15 +802,43 @@
       {
         "gameName": "Midnight-Drive",
         "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b4d58a67c898149f9cb897eb7ec99d73.png",
-        "category": "Car & Bike",
+        "category": "Our Special",
         "gameURL": "https://poki.com/en/g/midnight-drive",
         "desc": "Our Special",
         "isNew": false
       },{
         "gameName": "Crazy-cars",
         "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2bc8004fcbb4387908a636e2a9d9ab4a.png",
-        "category": "Car & Bike",
+        "category": "Our Special",
         "gameURL": "https://poki.com/en/g/crazy-cars",
+        "desc": "Our Special",
+        "isNew": false
+      },{
+        "gameName": "Shapes",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/68054018100a9eadeaae50b6634e549e.png",
+        "category": "Our Special",
+        "gameURL": "https://poki.com/en/g/shapes",
+        "desc": "Our Special",
+        "isNew": false
+      },{
+        "gameName": "Magikmon",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8494bdd8ce6c6dfdd58013c37bffe4cd.png",
+        "category": "Our Special",
+        "gameURL": "https://poki.com/en/g/magikmon",
+        "desc": "Our Special",
+        "isNew": false
+      },{
+        "gameName": "Brain-Test-Tricky-Words",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7fec965b335fcdd53808446a54e9ef0b.png",
+        "category": "Our Special",
+        "gameURL": "https://poki.com/en/g/brain-test-tricky-words",
+        "desc": "Our Special",
+        "isNew": false
+      },{
+        "gameName": "Lines-To-Fill",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fc2b879713950ed32f54607f060c7b04.png",
+        "category": "Our Special",
+        "gameURL": "https://poki.com/en/g/lines-to-fill",
         "desc": "Our Special",
         "isNew": false
       },
@@ -1187,6 +1215,27 @@
         "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/17b1fcf5-980e-4c27-b6e3-61bfb80a711d.png",
         "category": "Sports Game",
         "gameURL": "https://poki.com/en/g/classic-bowling",
+        "desc": "Sports Game",
+        "isNew": false
+      },{
+        "gameName": "Goal Game",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6d8c2360b6f5a5228802918450754f8f.png",
+        "category": "Sports Game",
+        "gameURL": "https://poki.com/en/g/4th-and-goal-2022",
+        "desc": "Sports Game",
+        "isNew": false
+      },{
+        "gameName": "Big-Shot-Boxing",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cd1782b250f70b01d6c054fc6e6ae258683dfc3eb657604d9986495403e4d671.png",
+        "category": "Sports Game",
+        "gameURL": "https://poki.com/en/g/big-shot-boxing",
+        "desc": "Sports Game",
+        "isNew": false
+      },{
+        "gameName": "Football-Masters",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a67936e401d72fd1bc90b7b5caa3f9f2.png",
+        "category": "Sports Game",
+        "gameURL": "https://poki.com/en/g/football-masters",
         "desc": "Sports Game",
         "isNew": false
       }
