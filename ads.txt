@@ -21,5 +21,5 @@
     "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNativeId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbInterId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interTimeIntervalInSec":60
+    "interTimeIntervalInSec":10
 }
